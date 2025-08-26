@@ -1,0 +1,12 @@
+# all ignore
+/*
+/.**
+
+
+# whitelist
+
+## git
+!/README.md
+!/LICENSE
+!.gitignore
+!.gitkeep
